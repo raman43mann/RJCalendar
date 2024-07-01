@@ -64,4 +64,4 @@ Step 6 : It allow you to get a selected date with onDateSelected clouser method,
 raman43mann, rjmann43@gmail.com , Linkedin : https://www.linkedin.com/in/raman-mann-957201154
 
 ## License
-FaceID-Biometric is available under the MIT license. See the LICENSE file for more info.
+RJCalendar is available under the MIT license. See the LICENSE file for more info.
