@@ -1,6 +1,6 @@
 # RJCalendar
 
-Use RJCalendar to select dates in your app . Yoe can easiy integrate this code in your swift iOS based application  .
+Use RJCalendar to select dates in your app . You can easiy integrate this code in your swift iOS based application  .
 
 ## Clone 
 To run the RJCalendar project, clone the repo, and run the project.<br />
